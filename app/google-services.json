@@ -1,33 +1,13 @@
 {
   "project_info": {
-    "project_number": "787710353327",
-    "firebase_url": "https://student-registeration-d74bd-default-rtdb.firebaseio.com",
-    "project_id": "student-registeration-d74bd",
-    "storage_bucket": "student-registeration-d74bd.appspot.com"
+    "project_number": "964433089076",
+    "project_id": "students-5acc7",
+    "storage_bucket": "students-5acc7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:787710353327:android:9b8c8dd1908346e77bd95a",
-        "android_client_info": {
-          "package_name": "com.manmeet.sample"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBEah4u_BO4e37P8_WgibGALtgKome0AZA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:787710353327:android:8c6c8da4a0112f1f7bd95a",
+        "mobilesdk_app_id": "1:964433089076:android:4d2bc8f582014637603061",
         "android_client_info": {
           "package_name": "com.manmeet.studentregisteration"
         }
@@ -35,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEah4u_BO4e37P8_WgibGALtgKome0AZA"
+          "current_key": "AIzaSyCoSRy4psVXTFyzAdtcAueyTL9yWbqNRDA"
         }
       ],
       "services": {

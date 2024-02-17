@@ -7,7 +7,6 @@
     tools:context=".MainActivity"
     android:background="#3F51B5">
 
-
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
@@ -25,16 +24,7 @@
             android:textColor="@color/white"
             android:textSize="25dp"
             android:fontFamily="sans-serif-medium"
-            android:layout_marginTop="100dp">
-
-        </TextView>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="By Manmeet Kaur"
-            android:textColor="@color/white"
-            android:fontFamily="sans-serif-medium">
+            android:layout_marginTop="140dp">
 
         </TextView>
 
@@ -110,5 +100,4 @@
             ></Button>
 
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
